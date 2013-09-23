@@ -1,4 +1,4 @@
 NK-implementations
 ==================
 
-A collection of implementations of the NK model (see http://en.wikipedia.org/wiki/NK_model) and a number of derived models too.
+A collection of implementations of Stuart Kauffman's [NK model](http://en.wikipedia.org/wiki/NK_model) of tunably rugged fitness landscapes, and other derived models too.
